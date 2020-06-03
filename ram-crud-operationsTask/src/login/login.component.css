@@ -1,0 +1,17 @@
+.login-margin{
+    margin-top: 200px;
+    display: 'flex';
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #086d4f;
+  }
+ .imgStyle {
+    width:150;
+    height:150;
+    margin-right:70;
+    display: 'flex';
+    background-color: green;
+  };
