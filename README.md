@@ -5,7 +5,7 @@
 
 Steps to run Client app
 
-1.Go to the project directory in command prompt.
+1.Go to the project directory (ram-crud-operationsTask) in command prompt.
 2.Install all dependencies for application using "npm install"
 3. Run npm start
 
